@@ -12,8 +12,8 @@ function App() {
     <Navbar/>
     <HomePage/>
     <SecondPage/>
-    <Thirdframe/>
-    <Sixthframe/>
+    {/* <Thirdframe/> */}
+    <Sixthframe / >
    </div>
   )
 }
