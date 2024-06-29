@@ -2,6 +2,7 @@ import { useState } from 'react'
 import HomePage from './component/HomePage'
 import Navbar from './component/Navbar/Navbar'
 import SecondPage from './component/secondPage'
+import Thirdframe from './component/Frame5/frame3'
 function App() {
   
 
@@ -10,6 +11,7 @@ function App() {
     <Navbar/>
     <HomePage/>
     <SecondPage/>
+    <Thirdframe/>
    </div>
   )
 }
