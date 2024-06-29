@@ -1,0 +1,11 @@
+.main{
+    background: rgb(74,11,93);
+    background: linear-gradient(90deg, rgba(74,11,93,1) 0%, rgba(0,7,56,1) 59%, rgba(0,6,8,1) 100%);
+
+}
+.nft{
+    color:  #EB72FF ;
+    border-color:rgba(132, 4, 135, 1);
+    border-radius: 7px solid;
+
+}

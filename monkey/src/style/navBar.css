@@ -1,0 +1,18 @@
+.navbar-brand{
+    color: rgb(81,11,93);
+}
+.nav{
+        background: rgb(74,11,93);
+        background: linear-gradient(90deg, rgba(74,11,93,1) 0%, rgba(0,7,56,1) 59%, rgba(0,6,8,1) 100%);
+    
+    
+}
+
+.active{
+    background: rgb(74,11,93);
+    background: linear-gradient(90deg, rgba(74,11,93,1) 0%, rgba(0,7,56,1) 59%, rgba(0,6,8,1) 100%);
+}
+
+.hr{
+    color: rgb(81,11,93);
+}
