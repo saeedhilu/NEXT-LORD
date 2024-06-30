@@ -73,6 +73,7 @@
     border-color:  #ff00ff ;
 }
 img{
+    color: white;
     border: 3px solid;
     border-image: linear-gradient(to right, rgb(149, 118, 253), rgba(181, 61, 255, 1)) 1;
     
